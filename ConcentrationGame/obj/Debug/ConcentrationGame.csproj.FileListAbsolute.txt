@@ -13,3 +13,19 @@ D:\Visual Studio Programs\Windows Forms\ConcentrationGame\ConcentrationGame\obj\
 D:\Visual Studio Programs\Windows Forms\ConcentrationGame\ConcentrationGame\obj\Debug\ConcentrationGame.application
 D:\Visual Studio Programs\Windows Forms\ConcentrationGame\ConcentrationGame\obj\Debug\ConcentrationGame.exe
 D:\Visual Studio Programs\Windows Forms\ConcentrationGame\ConcentrationGame\obj\Debug\ConcentrationGame.pdb
+D:\GitHub Reops\Windows Forms\ConcentrationGame\ConcentrationGame\bin\Debug\Concentration Game.exe.config
+D:\GitHub Reops\Windows Forms\ConcentrationGame\ConcentrationGame\bin\Debug\Concentration Game.exe.manifest
+D:\GitHub Reops\Windows Forms\ConcentrationGame\ConcentrationGame\bin\Debug\Concentration Game.application
+D:\GitHub Reops\Windows Forms\ConcentrationGame\ConcentrationGame\bin\Debug\Concentration Game.exe
+D:\GitHub Reops\Windows Forms\ConcentrationGame\ConcentrationGame\bin\Debug\Concentration Game.pdb
+D:\GitHub Reops\Windows Forms\ConcentrationGame\ConcentrationGame\obj\Debug\ConcentrationGame.csprojAssemblyReference.cache
+D:\GitHub Reops\Windows Forms\ConcentrationGame\ConcentrationGame\obj\Debug\ConcentrationGame.frm_Credits.resources
+D:\GitHub Reops\Windows Forms\ConcentrationGame\ConcentrationGame\obj\Debug\ConcentrationGame.frm_Instructions.resources
+D:\GitHub Reops\Windows Forms\ConcentrationGame\ConcentrationGame\obj\Debug\ConcentrationGame.frm_MainGame.resources
+D:\GitHub Reops\Windows Forms\ConcentrationGame\ConcentrationGame\obj\Debug\ConcentrationGame.Properties.Resources.resources
+D:\GitHub Reops\Windows Forms\ConcentrationGame\ConcentrationGame\obj\Debug\ConcentrationGame.csproj.GenerateResource.cache
+D:\GitHub Reops\Windows Forms\ConcentrationGame\ConcentrationGame\obj\Debug\ConcentrationGame.csproj.CoreCompileInputs.cache
+D:\GitHub Reops\Windows Forms\ConcentrationGame\ConcentrationGame\obj\Debug\Concentration Game.exe.manifest
+D:\GitHub Reops\Windows Forms\ConcentrationGame\ConcentrationGame\obj\Debug\Concentration Game.application
+D:\GitHub Reops\Windows Forms\ConcentrationGame\ConcentrationGame\obj\Debug\Concentration Game.exe
+D:\GitHub Reops\Windows Forms\ConcentrationGame\ConcentrationGame\obj\Debug\Concentration Game.pdb
